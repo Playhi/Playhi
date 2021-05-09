@@ -1,6 +1,6 @@
 ### Hi there
 
-[![Playhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Playhi&count_private=true&hide=stars&show_icons=true&theme=dark)](https://github.com/Playhi)
+[![Playhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Playhi&count_private=true&hide=stars&show_icons=true&theme=default)](https://github.com/Playhi)
 
 <!--
 **Playhi/Playhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
